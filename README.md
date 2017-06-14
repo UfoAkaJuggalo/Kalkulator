@@ -1,6 +1,6 @@
 # Kalkulator
 
-### **C#, Win Forms, CRUD** 
+### **C#, Win Forms** 
 
 ---
 Simple calc app in C# with Windows Forms
